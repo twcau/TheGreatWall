@@ -60,13 +60,13 @@
 0.0.0.0 doh.cleanbrowsing.org
 
 # Cloudflare
-0.0.0.0 one.one.one.one
-0.0.0.0 mozilla.cloudflare-dns.com
-0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
-0.0.0.0 cloudflare-dns.com
-0.0.0.0 dns64.cloudflare-dns.com
-0.0.0.0 security.cloudflare-dns.com
-0.0.0.0 family.cloudflare-dns.com
+# 0.0.0.0 one.one.one.one
+# 0.0.0.0 mozilla.cloudflare-dns.com
+# 0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
+# 0.0.0.0 cloudflare-dns.com
+# 0.0.0.0 dns64.cloudflare-dns.com
+# 0.0.0.0 security.cloudflare-dns.com
+# 0.0.0.0 family.cloudflare-dns.com
 
 # Comcast
 0.0.0.0 doh.xfinity.com
